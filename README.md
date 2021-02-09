@@ -5,3 +5,6 @@
   
 ### Installation:
 Copy and paste the script into your public function.
+  
+### Notes:  
+Feel free to open issues if you get error when compile/need help.
